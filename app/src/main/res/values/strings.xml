@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Goal</string>
+    <string name="workanndcareer">Work and Career</string>
+    <string name="health">Health</string>
+    <string name="personal">Personal</string>
+    <string name="money">Money</string>
+    <string name="family">Family</string>
+    <string name="spirituality">Spirituality</string>
+    <string name="lifestyle">LifeStyle</string>
+    <string name="love">Love</string>
+    <string name="other">Other</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="show_less">Show Less</string>
+    <string name="show_more">Show More</string>
+</resources>
